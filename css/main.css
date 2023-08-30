@@ -1,0 +1,17 @@
+.blocks {
+  width: 300px;
+  height: 300px;
+}
+.block-1 {
+  background-color: rgb(49, 82, 110);
+}
+.block-2 {
+  background-color: rgb(69, 142, 45);
+}
+
+.active {
+  background-color: rgb(216, 32, 19);
+}
+ul {
+  background-color: brown;
+}
